@@ -1,3 +1,5 @@
 Just replaced by feature-2 local branch
 
 This is from feature-2 local branch
+
+modification after git push -v -u origin feature-2 (create remote new branch based on local branch)
